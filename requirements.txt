@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-openai
+langchain-mcp-adapters>=0.0.10
+fastapi
+uvicorn
+requests
+python-multipart
